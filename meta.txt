@@ -1,9 +1,6 @@
-<html>
-<head>
-<script>
-  alert (Hey)
-</script>
-</head>
-<body>
-</body>
-</html>
+#!/bin/sh
+
+# Output a friendly message
+echo "Publishing master branch!" >&2
+
+exit 0
