@@ -1,3 +1,9 @@
+<html>
+<head>
 <script>
   alert (Hey)
 </script>
+</head>
+<body>
+</body>
+</html>
